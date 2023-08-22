@@ -1,4 +1,5 @@
-Library Management System. A C++ program built for all basic library operations and management. 
+# Library Management System. 
+A C++ program built for all basic library operations and management. 
 Uses AVL trees as a data structure for efficient search and addition operation for books and students.
 
 How to run
